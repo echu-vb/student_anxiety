@@ -7,4 +7,12 @@ Program type for level of test anxiety had a large F statistic (19.839) as well 
 
 We can attribute undergraduate students having a higher mean test anxiety to the likelihood of graduate students being better students and thus feeling less anxious for tests.
 
-Faculty did not have a high F statistic (4.467) but had a p-value low enough to be statistically significant (0.012)
+Faculty did not have as high of an F statistic (4.467) but had a p-value low enough to be statistically significant (0.012)
+
+## Question 2: Can signs of self-efficacy, anxiety sensitivity, and self-critical perfectionism be used to predict anxiety in Statistics?
+Using a linear regression model to predict test anxiety and willingness via results from the survey did not prove to create an accurate model with both having R-squared values of less than 0.3. 
+If we wanted more accurate predictions, a different model should be used (such as decision trees and RandomForest).
+
+## Question 3: How does test anxiety differ by faculty and program type?
+![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
+![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
