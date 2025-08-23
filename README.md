@@ -15,4 +15,4 @@ If we wanted more accurate predictions, a different model should be used (such a
 
 ## Question 3: How does test anxiety differ by faculty and program type?
 ![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
-![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
+![image](https://github.com/echu-vb/student_anxiety/blob/c2fc9996c3a21baa2de6a59d5ee476458f8f3e99/graph2.png)
