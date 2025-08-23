@@ -4,3 +4,5 @@ Data from: [a survey conducted at Dalhousie University that asked students their
 ## Findings: 
 Through the use of a two way ANOVA test, I found that the variation of test anxiety in statistics classes could be explained with program type (undergraduate, graduate). 
 By utilizing linear regression, I tried to create a model to predict test anxiety and willingness to ask for help given the variables provided from the survey (self-efficacy, anxiety sensitivity, perfectionism) but was unable to create one with significant accuracy.
+
+We can attribute undergraduate students having a higher mean test anxiety to the likelihood of graduate students being better students and thus feeling less anxious for tests.
