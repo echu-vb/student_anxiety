@@ -18,3 +18,4 @@ Update: By utilizing Random Forest to predict anxiety found within math classes,
 ## Question 3: How does test anxiety differ by faculty and program type?
 ![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
 ![image](https://github.com/echu-vb/student_anxiety/blob/c2fc9996c3a21baa2de6a59d5ee476458f8f3e99/graph2.png)
+Like what I mentioned before, undergraduate students are shown to have a higher test anxiety for statistics classes and out of the three major types, art majors showed the highest test anxiety while the rest had a similar level of anxiety. We can atribute this to art majors feeling less prepared for a class that is outside of their major curriculum.
