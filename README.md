@@ -1,4 +1,4 @@
-# Statistical Analysis and Visualization of Anxiety Levels Found in Statistic Classes (Python/ R)
+# Statistical Analysis and Visualization of Anxiety Levels Found in Statistics and Math Classes (Python/ R)
 Data from: [a survey conducted at Dalhousie University that asked students their demographics and various questions to gauge their anxiety in different areas.](https://osf.io/nzhq6/files/osfstorage)
 ***
 ## Question 1: Does statistics anxiety differ by faculty (arts, science, other, and program level (undergrad vs grad)?
@@ -13,7 +13,7 @@ Faculty did not have as high of an F statistic (4.467) but had a p-value low eno
 Using a linear regression model to predict test anxiety and willingness via results from the survey did not prove to create an accurate model with both having R-squared values of less than 0.3. 
 If we wanted more accurate predictions, a different model should be used (such as decision trees and RandomForest).
 
-Update: By utilizing Random Forest, R2 doubled in value, creating a more accurate model.
+Update: By utilizing Random Forest to predict anxiety found within math classes, R2 doubled in value, creating a more accurate model.
 
 ## Question 3: How does test anxiety differ by faculty and program type?
 ![image](https://github.com/echu-vb/student_anxiety/blob/f29bfb2b91a7f1966c1f9fbc0e94ee3e2f51f21e/graph1.png)
